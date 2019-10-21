@@ -69,3 +69,19 @@ main > .tagline {
 	width: 2.65rem;
 	height: 2.65rem;
 }
+
+a:link {
+  color: white;
+}
+
+a:visited {
+  color: white;
+}
+
+a:hover {
+  color: white;
+}
+
+a:active {
+  color: white; 
+}
