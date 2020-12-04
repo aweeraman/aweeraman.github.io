@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/aweeraman
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://anuradha.dev
+  * I am aweeraman (https://keybase.io/aweeraman) on keybase.
+  * I have a public key with fingerprint F56B 8F14 E014 CDEF 5D04  7FC1 636D B5A1 D918 60FD
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01019f9c246d37ed0e5dba27ac24109ca312384996fef765a28e1f6803475d17e5940a",
+      "fingerprint": "f56b8f14e014cdef5d047fc1636db5a1d91860fd",
+      "host": "keybase.io",
+      "key_id": "636db5a1d91860fd",
+      "kid": "01019f9c246d37ed0e5dba27ac24109ca312384996fef765a28e1f6803475d17e5940a",
+      "uid": "1a045d20950572e8b5c5139bb7f9b919",
+      "username": "aweeraman"
+    },
+    "service": {
+      "hostname": "anuradha.dev",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1607094303,
+  "expire_in": 157680000,
+  "prev": "5c81395232ee47c5c321b687fb74c455dfb602d091e7cb3f9370f32be2888422",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUm1QVFUYXoQdYwNCRIcPFbiUZC54vz820GIcR4YCIkAZoPXee86FK+zdZfcu
+q6CAUA05mTuhiREaoTMy5NimTTOgfMgwORhoIZTVhBiNYbU0NUhNoN3LxL9+dv6c
+Oc95nud93ndeb2igwRQg2j5pvx21ZzHg+oxgsA7n4DWIYAf7EUsNUg6XLlgBoEu1
+lssAsSAohmKcxIk4SQOCgQCFFBB4nOE1BEM5kScwnGBJjqMlKDE0xeMsxCSaRQmS
+oQDGQIojUR4xI5KslEKnwykrqmYrUbTAShgJUYwUAZQogJKMJGI0QQOB4jHAYSyN
+SkATltldukILJ/AumCLbNUx7WJfi/Qf/f87tXrLDeJSkAI5yFEoxOGQFSqQwghME
+RuIEDuN0ogs6Fd4GNTbvgdDJ23gFOWhGNLhKFqE+Wb2VZYridvKgjE8BsEoTO5x2
+1S7aK7SfMlV1uCy6Ut3v0KkeKFj/NbEKsgK0QWqKKuh0yXYFsWAaU1Rl3RWjUQbl
+SAIlzAjc55Cd0CrrDIrRGtOOXkcrZ0EokdXSF1I4gUNIMiIlEjgm0CwjCQwpkhQF
+JIFGcYByGGREgZA4gkElAhcgzrIsieOI3lelYkcsjJaTL9U8XXKpwqtuJ0QOmt5Y
+QQQZAkyG9WsTgubKj0beiRyZLQmqG1hePuMKffMMpuDwZWT15XBD+28Zi7+e3Boh
+fouHeR8XF8y1j/2QPpt771Nj3JXVHacm120rvpm183zvW0OkL/ve0NneotD5R2u2
+9nQf2JGWziZHt15LTusOKbxUe/hs3dO9Sf7hnh2N6nSuWVjT2HwjODGlzrcraM47
+dne3eWriw6aCvQ+m/Nayw7Y/R+WV3B9TN3Inai38ZHd93oDH64kA/evTJ/hC9TNw
+JWw2OzHnOIjNjGiaSfVnxPob5Ff7XPHTHWszPTnVeb6N+Dvjq3hP0eTOuLxG36Go
+++yRgItxG2J+r3kieqFwodI9PfQo+QXyy66pkqGXUovsT5ku3DLuM55rGLtqfK/h
+77n8rg50LGdLtUPtv6CkqifaXu/yD370ykPf5hPXYkIajxNv534deItOy+yIkb1n
+jn38TNGDMwU013B6U8yhH8OLq6iei6MhZSW3E1PWVd/tyR+dz5xZVMC5Z1dFzYbN
+9XXeb6kffDNpyG4av/xkBt7c8rk7orXr3fHYv/raowNKLPOn8/0/JXzz8p7ywE5T
+qC1eqhk50FyfXXAVnnq/xxaVhXwXqcTPuaLSnvduO9n3feSRDZcSds9sKU6z8TlN
+7XRlRNv5F1OKDna6W1Y+VF6rKxnAqefAzeHZozMZ23/Zex1VfWH2BjpYjfnC+MGx
+Vgu56PSUbv+5Pz/Lm7S5vu2rjR2bMu/sahy0VIz8Aw==
+=4/L+
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/aweeraman
+
+==================================================================
+
