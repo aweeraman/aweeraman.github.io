@@ -51,16 +51,18 @@ main > .intro {
 
 main > .photo {
 	align-self: center;
+	margin: 1.5rem 0;
+	padding: 10px;
 }
 
 main > .tagline {
-	font-size: 1.5rem;
+	font-size: 1.75rem;
 	margin: 1.5rem 0;
 	font-weight: 100;
 }
 
 main > .bio {
-	font-size: 1rem;
+	font-size: 1.1rem;
 	font-weight: 50;
 	margin: 0 auto;
 	max-width: 75%;
