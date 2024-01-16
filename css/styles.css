@@ -59,8 +59,17 @@ main > .tagline {
 	font-weight: 100;
 }
 
+main > .bio {
+	font-size: 1rem;
+	font-weight: 50;
+	margin: 0 auto;
+	max-width: 50%;
+	text-align: center;
+}
+
 .icons-social i {
 	padding: 10px;
+	margin: 1.5rem 0;
 }
 
 .devto {
